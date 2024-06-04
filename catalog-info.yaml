@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: gaurav-v1
+  description: Default Template.
+  tags:
+    - go
+    - website
+spec:
+  type: service
+  lifecycle: production
+  owner: dev-team
