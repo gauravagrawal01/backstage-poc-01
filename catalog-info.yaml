@@ -2,8 +2,6 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: gaurav-v1
-  annotations:
-    backstage.io/techdocs-ref: value
   description: Default Template.
   tags:
     - go
